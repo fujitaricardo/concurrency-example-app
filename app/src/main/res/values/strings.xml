@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Concurrency Example</string>
+
+    <string-array name="modes_array">
+        <item>Java Thread</item>
+        <item>Kotlin Coroutine</item>
+        <item>RxJava</item>
+    </string-array>
+</resources>
